@@ -6,3 +6,4 @@ window.htmx = require('htmx.org')
 
 window.Alpine = Alpine
 Alpine.start()
+

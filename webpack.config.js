@@ -12,6 +12,7 @@ const options = {
         filename: 'js/[name].js',
         publicPath: '/static/',
     },
+
     plugins: [
         new MiniCssExtractPlugin({
             filename: 'css/[name].css',
