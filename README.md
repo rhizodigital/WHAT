@@ -1,4 +1,4 @@
-# Tail Wag Web
+# WHAT
 WHAT stack uses Wagtail CMS, HTMX, AlpineJS, and TailwindCSS to easily build secure, fast beautifull websites.
 
 ## Technology
